@@ -12,10 +12,10 @@ body {
   color: white;
 }
 
-img {
+/* img {
   width: 100%;
   height: 100%;
-}
+} */
 main {
   display: flex;
   flex-direction: column;
@@ -110,10 +110,10 @@ main {
     order: initial;
   }
 
-  .right-section .hidden-img {
+  /* .right-section .hidden-img {
     width: 100% !important;
     height: 100% !important;
-  }
+  } */
 
   .right-section .overlay {
     background-image: url("../images/image-header-desktop.jpg");
